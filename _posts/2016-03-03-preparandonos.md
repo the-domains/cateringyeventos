@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T23:33:58.940Z'
-dateModified: '2016-03-03T23:33:58.604Z'
-title: Preparándonos
+datePublished: '2016-03-03T23:55:45.386Z'
+dateModified: '2016-03-03T23:55:42.040Z'
+title: Preparando
+author: []
+sourcePath: _posts/2016-03-03-preparandonos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-03-preparandonos.md
-published: true
 url: preparandonos/index.html
 _type: Blurb
 
@@ -68,3 +68,5 @@ _type: Blurb
 > agregar golosinas como gomas, masmelos, mentas masticables, galletas y 
 > ricos dulces que también deben conservar la paleta de colores y la 
 > temática del evento.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f6cfd11-0c8c-45e6-87e9-2d81ef3b0382.jpg)
