@@ -1,6 +1,6 @@
 name: cateringyeventos
 favicon: null
-layout_spectrum: 0.21512109879404306
+layout_spectrum: 0.88983
 typography_spectrum: 0.12170409527607262
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6802195541094989
+    - '#ffffff'
+    - '#ce232d'
+    - '#000000'
+    - '#8b6324'
+    - '#ff8080'
+  brandStrength: 0.75
   lightness: 0.44362586457282305
   saturation: 0.43552443548105657
   rhythmicContrast: 0.31409892276860774
