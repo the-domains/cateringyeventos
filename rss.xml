@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Catering y Eventos ]]></title>
         <description><![CDATA[Catering y Eventos ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cateringyeventos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 00:19:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 00:52:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cateringyeventos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dbbae6e-9aa3-4201-9c0d-ee29a65e06ca.jpg">]]></description>
-            <link>undefineddd6b8d9d-ac4f-4806-a379-453971e714cc/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b8c8f77-c82f-4115-b731-bb76e482e18c.jpg">]]></description>
+            <link>https://thegrid.ai/cateringyeventos/dd6b8d9d-ac4f-4806-a379-453971e714cc/index.html</link>
             <guid isPermaLink="false">dd6b8d9d-ac4f-4806-a379-453971e714cc</guid>
-            <pubDate>Fri, 04 Mar 2016 00:18:52 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 00:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
